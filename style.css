@@ -193,6 +193,11 @@ article:nth-child(5) .name {
       margin: 1rem;
     }
   
+   svg{
+    right: 2rem;
+   }
+
+
     article:nth-child(1) {
       grid-column: 1/2;
       grid-row: 1/3;
